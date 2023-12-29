@@ -1,4 +1,4 @@
-This is my Optimized user.cfg for Star Citizen running pretty smooth with rather okay graphics on a Intel i7-6800k 32Gig ram and a GTX 1080.
+This is my Optimized user.cfg for Star Citizen 3.22.0-Live 9003408 running pretty smooth with rather okay graphics on a Intel i7-6800k 32Gig ram and a GTX 1080.
 
 Some example screenshots in seraphim on a somewhat bad server:
 <img src="https://github.com/Johnaconda/SC-MyUser.cfg/blob/main/Screenshots/ScreenShot-2023-12-29_15-49-57-725.jpg?raw=true" alt="Example1" title="Seraphim station">
